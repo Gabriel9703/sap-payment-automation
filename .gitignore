@@ -1,0 +1,37 @@
+data/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Dependências e pacotes
+package-lock.json
+yarn.lock
+
+# Outros
+.env
+.env.local
+.env.*.local
